@@ -6,7 +6,7 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-20">
             <h2 class="text-4xl md:text-5xl font-serif text-gray-900 leading-tight max-w-4xl">
-                Just as Bloomberg digitized financial data in the 1980s, <span class="font-semibold">Rogo is now transforming financial workflows.</span>
+                Finance teams at 600+ companies trust <span class="font-semibold">Embat to automate their treasury operations.</span>
             </h2>
         </div>
 
@@ -15,8 +15,8 @@
             <div class="relative">
                 <div class="relative rounded-lg overflow-hidden shadow-2xl bg-gray-900 aspect-[4/3]">
                     <img 
-                        src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?q=80&w=2072&auto=format&fit=crop" 
-                        alt="City buildings" 
+                        src="/generated/image-finance-professional-analyzing-data-on-m-1765401236381-2.webp" 
+                        alt="Financial dashboard" 
                         class="absolute inset-0 w-full h-full object-cover opacity-40 mix-blend-overlay"
                     />
                     
@@ -24,10 +24,10 @@
                     <div class="absolute inset-0 flex items-center justify-center p-8">
                         <div class="bg-white rounded-lg shadow-xl w-full max-w-md p-6">
                             <div class="flex items-center gap-3 mb-4">
-                                <div class="h-8 w-8 bg-blue-600 rounded flex items-center justify-center text-white">
+                                <div class="h-8 w-8 bg-primary-600 rounded flex items-center justify-center text-white">
                                     <Database size={16} />
                                 </div>
-                                <span class="font-medium text-gray-900">Market data</span>
+                                <span class="font-medium text-gray-900">Real-time cash position</span>
                             </div>
                             <div class="space-y-2">
                                 <div class="h-2 bg-gray-100 rounded w-3/4"></div>
@@ -46,15 +46,15 @@
             <!-- Right: Features List -->
             <div class="space-y-12">
                 <h3 class="text-2xl font-serif text-gray-900">
-                    An Integrated, Secure Platform <br/> Built to Drive Your Firm Forward
+                    From Spreadsheet Treasury to<br/>Strategic Financial Control
                 </h3>
 
                 <div class="space-y-8">
                     {#each [
-                        { id: '01', title: 'All your content in one place', icon: Database },
-                        { id: '02', title: 'Transparent, auditable sources', icon: Search },
-                        { id: '03', title: 'Automate your workflows', icon: Settings },
-                        { id: '04', title: 'Proprietary document interrogation', icon: FileText }
+                        { id: '01', title: 'Real-time bank connectivity across 14,000+ banks', icon: Database },
+                        { id: '02', title: 'AI-powered reconciliation (90%+ automation)', icon: Search },
+                        { id: '03', title: 'Automated payment flows & approvals', icon: Settings },
+                        { id: '04', title: 'Multi-entity treasury management', icon: FileText }
                     ] as feature}
                         <div class="flex items-start gap-4 group cursor-pointer">
                             <div class="flex-shrink-0 relative">
