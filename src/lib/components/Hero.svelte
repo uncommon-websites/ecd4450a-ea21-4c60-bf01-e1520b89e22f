@@ -34,7 +34,7 @@
       />
       
       <!-- Overlay AI Query Interface -->
-      <div class="absolute inset-0 flex items-center justify-center bg-black/10">
+      <div class="absolute inset-0 flex items-center justify-center bg-black">
         <div class="w-full max-w-xl rounded-xl bg-white p-2 shadow-xl flex items-center gap-3 animate-fade-in-up">
             <div class="pl-3 text-primary-600">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
