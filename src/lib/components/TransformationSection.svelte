@@ -6,7 +6,7 @@
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-20">
             <h2 class="text-4xl md:text-5xl font-serif text-gray-900 leading-tight max-w-4xl">
-                Finance teams at 600+ companies trust <span class="font-semibold">Embat to automate their treasury operations.</span>
+                Finance teams at 600+ companies trust <span class="font-semibold text-red-600">Embat to automate their treasury operations.</span>
             </h2>
         </div>
 
