@@ -14,12 +14,12 @@
     
     <div class="flex justify-center">
         <div class="relative group">
-            <button class="relative rounded-full bg-black px-8 py-3 text-base font-medium text-white hover:bg-gray-800 transition-all">
+            <button class="relative rounded-full bg-yellow-400 px-8 py-3 text-base font-medium text-black hover:bg-yellow-500 transition-all">
                 Request a Demo
             </button>
             <!-- Decorative corners -->
-            <div class="absolute -top-2 -left-2 h-4 w-4 border-t-2 border-l-2 border-black"></div>
-            <div class="absolute -bottom-2 -right-2 h-4 w-4 border-b-2 border-r-2 border-black"></div>
+            <div class="absolute -top-2 -left-2 h-4 w-4 border-t-2 border-l-2 border-yellow-400"></div>
+            <div class="absolute -bottom-2 -right-2 h-4 w-4 border-b-2 border-r-2 border-yellow-400"></div>
         </div>
     </div>
   </div>
